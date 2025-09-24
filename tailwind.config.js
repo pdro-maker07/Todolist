@@ -6,7 +6,12 @@ export default {
     "./Todolist/src/**/*.{js,jsx,ts,tsx}"
   ],
   theme: {
-    extend: {},
-  },
+    extend: {
+
+    },
+    fontFamily: {
+      primay: "montserrat"
+  }
+},
   plugins: [],
 }
